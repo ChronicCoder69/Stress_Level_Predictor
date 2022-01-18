@@ -1,5 +1,5 @@
 # Stress_Level_Predictor
-qwertA Data Mining Project to predict stress level for a given input response.
+qwerA Data Mining Project to predict stress level for a given input response.
 Nov 2021
 
 Project Description:
